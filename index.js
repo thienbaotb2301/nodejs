@@ -3,8 +3,22 @@ var app = express();
 
 var port = 3000;
 
-app.get('/', function(resquest, response) {
-    response.send('<h1>Hello World!</h1>');
+app.set('view engine', 'pug');
+app.set('views', './views');
+
+app.get('/', function(req, res) {
+    res.render('index', {
+        name: "ABC"
+    });
+});
+
+app.get('/users', function(req, res) {
+    res.render('users/index', {
+        users: [
+            { id: 1, name: "Bao" },
+            { id: 2, name: "Dan" }
+        ]
+    });
 });
 
 app.listen(port, function() {
