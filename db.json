@@ -2,7 +2,9 @@
   "users": [
     {
       "name": "Bao",
-      "id": "ZLwKF6Wf"
+      "id": "ZLwKF6Wf",
+      "email": "thienbaotb2301@gmail.com",
+      "password": "848748"
     },
     {
       "name": "Dan",
