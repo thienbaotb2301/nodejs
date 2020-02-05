@@ -106,27 +106,55 @@
     },
     {
       "id": 13,
-      "name": "Iphone 8",
+      "name": "Iphone 7 Plus",
       "image": "https://loremflickr.com/320/240",
       "description": "This is iphone",
       "price": 400
     },
     {
       "id": 14,
-      "name": "Iphone 8",
+      "name": "Iphone 7 Plus",
       "image": "https://loremflickr.com/320/240",
       "description": "This is iphone",
       "price": 400
     },
     {
       "id": 15,
-      "name": "Iphone 8",
+      "name": "Iphone 7 Plus",
       "image": "https://loremflickr.com/320/240",
       "description": "This is iphone",
       "price": 400
     },
     {
       "id": 16,
+      "name": "Iphone 7 Plus",
+      "image": "https://loremflickr.com/320/240",
+      "description": "This is iphone",
+      "price": 400
+    },
+    {
+      "id": 17,
+      "name": "Iphone 8",
+      "image": "https://loremflickr.com/320/240",
+      "description": "This is iphone",
+      "price": 400
+    },
+    {
+      "id": 18,
+      "name": "Iphone 8",
+      "image": "https://loremflickr.com/320/240",
+      "description": "This is iphone",
+      "price": 400
+    },
+    {
+      "id": 19,
+      "name": "Iphone 8",
+      "image": "https://loremflickr.com/320/240",
+      "description": "This is iphone",
+      "price": 400
+    },
+    {
+      "id": 20,
       "name": "Iphone 8",
       "image": "https://loremflickr.com/320/240",
       "description": "This is iphone",

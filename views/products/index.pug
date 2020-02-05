@@ -16,9 +16,11 @@ block content
                         .h3.card-title= product.name
                         .card-text= product.description
                         a.btn.btn-primary(href='/cart/add/' + product.id) Add to cart
-    <nav aria-label="Page navigation example", class="d-flex align-items-center">
-        <ul class="pagination ml-auto">
-            <li class="page-item"><a class="page-link" href="?page=1">1</a></li>
-            <li class="page-item"><a class="page-link" href="?page=2">2</a></li>            
-        </ul>
-    </nav>
+    nav.d-flex.align-items-center(aria-label='Page navigation')
+        ul.pagination.ml-auto
+            li.page-item
+                a.page-link(href='?page=1') 1
+            li.page-item
+                a.page-link(href='?page=2') 2
+            li.page-item
+                a.page-link(href='?page=3') 3
